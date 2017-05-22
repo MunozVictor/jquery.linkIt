@@ -1,6 +1,6 @@
 #LinkIt jQuery Plugin#
 
-**LinkIt** es un plugin de jQuery para establecer vinculos.
+**LinkIt** es un plugin de jQuery para establecer vinculos.(TEST)
 
 ##Version##
 0.2.0
